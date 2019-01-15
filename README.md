@@ -1,4 +1,4 @@
-In that repo I demonstrate handling classical decision-making and classification Problems using common Machine Learning tools. 
+Below you find way to handle decision-making and classification problems using common Machine Learning tools. 
 Pythonian libraries are applied, basically numpy, sklearn, pandas, tensorflow and etc. The focus of this particular repo are the 
 classical ML techniques (up to Neural Networks). I seek to handle not just model training, but also its improvement with Cross Validation,  Hypermarameter
 Tuning via Grid Search and etc. The Porblems stated are:  
