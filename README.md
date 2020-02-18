@@ -16,10 +16,10 @@ Dataset: [Nursery Data Set](https://archive.ics.uci.edu/ml/datasets/nursery)
 ### 4. [Naive Bayes, k-nearest Neighbours](https://github.com/fingerman/Machine-Learning/blob/master/ML_FU_nbayes_knn.ipynb)
 Dataset: [Nursery Data Set](https://archive.ics.uci.edu/ml/datasets/nursery)    
 
-### 5. [Clustering](https://github.com/fingerman/Machine-Learning/blob/master/ML_FU_Clustering.ipynb)
+### 5. [Clustering k-means](https://github.com/fingerman/Machine-Learning/blob/master/ML_FU_Clustering.ipynb)
 Dataset: generated   
 
-### 6. [Clustering](https://github.com/fingerman/Machine-Learning/blob/master/MLFU_Clustering_DBSCAN.ipynb)
+### 6. [Clustering DBSCAN](https://github.com/fingerman/Machine-Learning/blob/master/MLFU_Clustering_DBSCAN.ipynb)
 Dataset: generated   
 
 ### 7. [Transfer Learning with Image Dataset - CNNs](https://github.com/fingerman/Machine-Learning/blob/master/ML_FU_Transfer_Learning_CNNs.ipynb)
@@ -31,7 +31,7 @@ Dataset: IMDB
 ### 9. [Active Learning](https://github.com/fingerman/Machine-Learning/blob/master/ML_FU_Active_Learning.ipynb)
 Datasets: [Wine Data](https://archive.ics.uci.edu/ml/datasets/Wine), [MNIST] 
 
-### 10. [Reinforcement Learning](https://github.com/fingerman/Machine-Learning/blob/master/ML_FU_Reinforcement_Learning.ipynb)  
-Strategies - Random Search, Value Iteration, Q-Learning
-Datasets: [Taxi Problem], [Cartpole OpenAI]  
+### 10. [Reinforcement Learning](https://github.com/fingerman/Machine-Learning/blob/master/ML_FU_Reinforcement_Learning.ipynb)    
+Strategies - Random Search, Value Iteration, Q-Learning  
+Datasets: [Taxi Problem], [Cartpole OpenAI]    
   
